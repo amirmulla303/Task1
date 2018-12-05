@@ -1,0 +1,44 @@
+body{
+    font: 15px/1.5 Arial, Helvetica, sans-serif;
+    padding:0;
+    margin:0;
+    
+}
+
+
+.container{
+    width:80%;
+    margin:auto;
+    overflow:hidden;
+    min-height: 70px;
+    
+}
+
+header ul{
+    margin:0;
+    padding: 4px;
+    
+}
+
+header li{
+    float:left;
+    display: inline;
+    padding: 10px 10px 10px 10px;
+    color: #0288d1;
+}
+
+header #branding{
+    float:left;
+    padding: 10px 0 0 0;
+    
+}
+
+header #branding h2{
+    margin :0;
+    
+}
+
+header nav{
+    float:left;
+}
+/* header **/
